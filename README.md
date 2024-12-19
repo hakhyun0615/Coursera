@@ -1,5 +1,5 @@
 # Coursera
-This repository contains self-summarized notes with code from the Coursera Machine Learning and Deep Learning Specialization courses, along with a collection of models for quick reference.
+This repository contains self-summarized notes with code from the Coursera "Machine Learning Specialization" and "Deep Learning Specialization" courses, along with a collection of models for quick reference.
 
 ## Contents
 ### Models
